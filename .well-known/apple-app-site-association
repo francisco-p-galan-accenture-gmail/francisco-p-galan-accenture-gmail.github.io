@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "8H42BZ94CC.com.suntory.rafacaptureapp",
+        "components": [
+          {
+            "/": "/capture/*",
+            "comment": "Open RAFA Capture routes"
+          }
+        ]
+      }
+    ]
+  }
+}
